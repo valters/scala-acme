@@ -43,3 +43,4 @@ lib
 # 
 src/main/resources/props/*
 
+/bin/
